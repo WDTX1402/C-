@@ -1,0 +1,9 @@
+# ninja log v5
+3	422	7289985551329369	qt_project_autogen/timestamp	48e48cfda950ad3a
+3	422	7289985551329369	qt_project_autogen/mocs_compilation.cpp	48e48cfda950ad3a
+3	422	7289985551329369	C:/Users/phatt/Desktop/Code Files/cpp/qt_demo/build-qt_project-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/qt_project_autogen/timestamp	48e48cfda950ad3a
+3	422	7289985551329369	C:/Users/phatt/Desktop/Code Files/cpp/qt_demo/build-qt_project-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/qt_project_autogen/mocs_compilation.cpp	48e48cfda950ad3a
+425	1584	7289985563353355	CMakeFiles/qt_project.dir/main.cpp.obj	c73624a0633846f1
+422	1587	7289985563277603	CMakeFiles/qt_project.dir/qt_project_autogen/mocs_compilation.cpp.obj	7dea74b2872cbcb9
+428	1589	7289985563608324	CMakeFiles/qt_project.dir/mainwindow.cpp.obj	401d037a9969c45c
+1589	1742	7289985565064082	qt_project.exe	c1617a277d785312
